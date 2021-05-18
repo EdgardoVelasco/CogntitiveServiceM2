@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "swz6IptPK1T2dfq7jfCPK+ynoCwKUvN6gM7pRKN9rJuxNE8E2kfHE9vWVkKnZw+pK3zdDc+m8/2Qhg3KySk2iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edgardo\\Desktop\\proyectosCurso\\CognitiveServiceM2\\CognitiveServiceM2\\CognitiveServiceM2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgardo\\.nuget\\packages\\azure.ai.textanalytics\\5.0.0\\azure.ai.textanalytics.5.0.0.nupkg.sha512",
+    "C:\\Users\\edgardo\\.nuget\\packages\\azure.core\\1.2.2\\azure.core.1.2.2.nupkg.sha512",
+    "C:\\Users\\edgardo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\edgardo\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\edgardo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\edgardo\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\edgardo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\edgardo\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\edgardo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
